@@ -44,4 +44,6 @@ queuectl/
 ├── dlq.json
 ├── config.json
 ├── requirements.txt
-└── README.md 
+└── README.md
+
+MIT License © 2025 kumavath saicharitha
